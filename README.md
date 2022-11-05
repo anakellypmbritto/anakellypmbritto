@@ -1,5 +1,5 @@
-## Hi There ! I'm Ana Kelly Britto !
-<div><img height="200em" align="right" alt="Ana-gif" src="https://i.picasion.com/pic92/67df4d95d360500fc0b302dcab47547c.gif"></div>
+## Hi There ! I'm Ana Kelly Britto ! <div><img height="100em" align="right" alt="Ana-gif" src="https://i.picasion.com/pic92/67df4d95d360500fc0b302dcab47547c.gif"></div>
+
 <div>
   <a href="https://beacons.ai/anakellybritto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anakellybritto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
