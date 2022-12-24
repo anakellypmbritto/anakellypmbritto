@@ -3,5 +3,5 @@
 
 
 
-<h1 align="center">Olá 👋, sou Ana Kelly Britto</h1>
-<h3 align="center">Cientista de Dados (Estudante) | Análise de dados | Business Intelligence |</h3>
+<h1 align="center">Hi 👋, I'm Ana Kelly Britto</h1>
+<h3 align="center">Data Scientist (Student) | Data Analysis | Business Intelligence |</h3>
