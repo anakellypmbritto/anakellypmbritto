@@ -5,3 +5,12 @@
 
 <h1 align="center">Hi 👋, I'm Ana Kelly Britto</h1>
 <h3 align="center">Data Scientist (Student) | Data Analysis | Business Intelligence |</h3>
+
+
+
+
+
+
+
+
+<p dir="auto"><img src="https://github.com/anakellybritto/anakellybritto/blob/main/octocat-1671927531953.png" width="50%" style="max-width: 100%;"></p>
