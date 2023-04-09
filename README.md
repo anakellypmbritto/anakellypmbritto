@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ana Kelly Britto</h1>
-<h3 align="center">Data Scientist (Student) | Data Analysis | Business Intelligence |</h3>
+
 
 
 
